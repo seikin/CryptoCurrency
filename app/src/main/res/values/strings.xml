@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">CryptoCurrency</string>
-    <string name="title_coins_list">Список валют</string>
-    <string name="title_favorites_list">Избранные валюты</string>
+    <string name="title_coins_list">Начало</string>
+    <string name="title_favorites_list">Команды</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
